@@ -39,7 +39,7 @@ A simple command-line Tic-Tac-Toe game written in C. Play against another player
 ---+---+---
  X | O | X
 
-Player X, enter your move (1-9): 5
+player 1 [x] : 1
 ```
 
 ## Future Improvements
