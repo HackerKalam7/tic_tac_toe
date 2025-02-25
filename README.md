@@ -13,7 +13,7 @@ A simple command-line Tic-Tac-Toe game written in C. Play against another player
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/tic-tac-toe-c.git
+   git clone https://github.com/HackerKalam7/tic-tac-toe-c.git
    cd tic-tac-toe-c
    ```
 2. Compile the C program:
