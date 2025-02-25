@@ -33,11 +33,11 @@ A simple command-line Tic-Tac-Toe game written in C. Play against another player
 
 ## Example Gameplay
 ```
- 1 | 2 | 3 
+ X | O | X 
 ---+---+---
- 4 | 5 | 6 
+ O | X | O 
 ---+---+---
- 7 | 8 | 9 
+ X | O | X
 
 Player X, enter your move (1-9): 5
 ```
